@@ -37,7 +37,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('312110388-Muhammad Alwi Nur Fathihah'),
+          title: Text('Muhammad Romdhon - 312010434'),
         ),
         body: ListView.builder(
           itemCount: stations.length,
